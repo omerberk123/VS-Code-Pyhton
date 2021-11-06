@@ -1,0 +1,5 @@
+print(type(True))
+print(type(3.14))
+print(type(2.71))
+print(type("Bin Dokuz Yüz Seksen"))
+print(type(1980))
